@@ -1,0 +1,16 @@
+body{
+	background-color:#FBFACD ;
+}
+table{
+	border: 2;
+	background-color: #EF9A53;
+	border-style: solid;
+	}
+p{
+	align:justify;
+	margin-left:25px ;
+	margin-right: 25px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-inline: 25px;
+}
